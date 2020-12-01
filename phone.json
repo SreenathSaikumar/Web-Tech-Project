@@ -1,0 +1,85 @@
+[
+    {
+        "productName": "Redmi Note 9",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(Aqua Green, 4GB RAM, 64GB Storage) - 48MP Quad Camera & Full HD+ Display",
+        "price": 10999,
+        "stock" : 100
+    },
+    {
+        "productName": "Samsung Galaxy M31s",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(Mirage Blue, 6GB RAM, 128GB Storage)",
+        "price": 18499,
+        "stock" : 100
+    },
+    {
+        "productName": "OnePlus 7T",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(Glacier Blue,8GB RAM+256GB Storage)",
+        "price": 45999,
+        "stock" : 100
+    },
+    {
+        "productName": "OnePlus Nord 5G ",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(Gray Onyx, 12GB RAM, 256GB Storage)",
+        "price": 29999,
+        "stock" : 100
+    },
+    {
+        
+        "productName": "Samsung Galaxy M21",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(Midnight Blue, 4GB RAM, 64GB Storage)",
+        "price": 12499,
+        "stock" : 100
+    },
+    {
+
+        "productName": "Apple iPhone 11",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "64GB - Purple (Includes EarPods, Power Adapter)",
+        "price": 50999,
+        "stock" : 100
+    },
+
+    {    
+        "productName": "New Apple iPhone 12 Pro Max",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(128 GB Graphite)",
+        "price": 129900,
+        "stock" : 100
+    }, 
+    {   
+        "productName": "New Apple iPhone 12 Pro",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(256 GB Pacific Blue)",
+        "price": 110000,
+        "stock" : 100
+    },
+
+    {    
+        "productName": "OPPO A53",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(Fancy Blue, 4GB RAM, 64GB Storage)",
+        "price": 12990,
+        "stock" : 100
+    },
+
+    {  
+        "productName": "Samsung Galaxy S10 Plus",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(Black, 8GB RAM, 128GB Storage)",
+        "price": 39990,
+        "stock" : 100
+    },
+
+    {   
+        "productName": "Vivo Y50 ",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "((Pearl White, 8GB RAM, 128GB Storage)",
+        "price": 16490,
+        "stock" : 100
+    }
+]

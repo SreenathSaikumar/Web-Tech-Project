@@ -1,0 +1,47 @@
+[
+    {
+        "productName": "Samsung Galaxy Tab A7",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(10.4 inch, RAM 3 GB, ROM 32 GB, Wi-Fi-only), Grey",
+        "price": 16999,
+        "stock" : 100
+    },
+    {
+        "productName": "Samsung Galaxy Tab S6 Lite",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(10.4 inch, RAM 4 GB, ROM 64 GB, Wi-Fi-only), Oxford Grey",
+        "price": 26999,
+        "stock" : 100
+    },
+    {
+        "productName": "Samsung Galaxy Tab A 10.1",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "(10.1 inch, RAM 2GB, ROM 32GB, Wi-Fi-Only),Silver",
+        "price": 13999,
+        "stock" : 100
+    },
+    {
+        "productName": "Apple iPad Mini (Wi-Fi, 64GB) - Space Grey",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "7.9-inch (20.07 cms) Retina display with True Tone and wide color A12 Bionic chip Touch ID fingerprint sensor 8MP back camera, 7MP FaceTime HD front camera Stereo speakers 802.11ac Wi-Fi Up to 10 hours of battery life",
+        "price": 31900,
+        "stock" : 100
+    },
+    {
+        "productName": "New Apple iPad Pro (11-inch, Wi-Fi, 1TB) - Silver (2nd Generation)",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "11-inch (27.94 cms) edge-to-edge Liquid Retina display with ProMotion, True Tone, and P3 wide color A12Z Bionic chip with Neural Engine 12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner 7MP TrueDepth front camera Face ID for secure authentication and Apple Pay Four speaker audio and five studio-quality microphones 802.11ax Wi-Fi 6",
+        "price": 116900,
+        "stock" : 100
+    },
+    {
+        "productName": "New Apple iPad Air (10.9-inch, Wi-Fi, 64GB) - Sky Blue (Latest Model, 4th Generation)",
+        "image": "hp-15da3001tu.jpg",
+        "spec" : "Stunning 10.9-inch Liquid Retina display with True Tone and P3 wide colour A14 Bionic chip with Neural Engine Touch ID for secure authentication 12MP back camera, 7MP FaceTime HD front camera Available in Silver, Space Grey, Rose Gold, Green and Sky Blue Wide stereo audio Wi-Fi 6 (802.11ax)",
+        "price": 69900,
+        "stock" : 100
+    }
+
+
+
+]
