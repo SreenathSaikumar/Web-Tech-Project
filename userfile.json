@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "5fc733b2aefd6e1810264147"
+  },
+  "username": "regular@example.com",
+  "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG"
+},{
+  "_id": {
+    "$oid": "5fc733e8aefd6e1810264148"
+  },
+  "username": "admin@example.com",
+  "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG"
+}]
