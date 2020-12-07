@@ -1,0 +1,368 @@
+[
+    {
+        "productName": "HP Laptop 15-da3001TU",
+        "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/2/4/242D3PA-1_T1599447323.png",
+        "spec" : "10th Generation Intel® Core™ i3 processor,Windows 10 Home 64,39.62 cm(15.6 inch) diagonal, FHD (1920 x 1080), anti-glare, 220 nits, 45% NTSC,Intel® UHD Graphics,4 GB DDR4-2666 SDRAM (1 x 4 GB)",
+        "price": 35309,
+        "stock" : 100
+    },
+    {
+        "productName": "HP Laptop 14s-er0003TU",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81yaUrHPUoL._SL1500_.jpg",
+        "spec" : "10th Generation Intel® Core™ i5 processor Windows 10 Home Single Language 64 Plus Intel® UHD Graphics 8 GB DDR4-2666 SDRAM (1 x 8 GB)",
+        "price": 65999,
+        "stock" : 100
+    },
+    {
+        "productName": "HP Spectre x360 - 13-aw0204tu",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81KPk6ZeglL._SL1500_.jpg",
+        "spec" : "10th Generation Intel® Core™ i5 processor Windows 10 Home Single Language 64 512 GB PCIe® NVMe™ M.2 SSD 8 GB LPDDR4-3200 SDRAM (onboard) 33.78 CM (13.3) diagonal FHD BrightView micro-edge WLED-backlit multitouch",
+        "price": 104999,
+        "stock" : 100 
+    },
+    {
+        "productName": "HP Pavilion x360 Convertible 14-dh1180TU",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/617clKqAqiL._SL1080_.jpg",
+        "spec" : "10th Generation Intel® Core™ i7 processor Windows 10 Home 64 512 GB PCIe® NVMe™ M.2 SSD Intel® UHD Graphics 8 GB DDR4-2666 SDRAM (1 x 8 GB)",
+        "price": 79999,
+        "stock" : 100 
+    },
+    {
+        "productName": "HP Pavilion Gaming Laptop 15-ec0100AX",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71FeUtw%2BTPL._SL1500_.jpg",
+        "spec" : "AMD Ryzen™ 5 processor Windows 10 Home Single Language 64 Plus NVIDIA® GeForce® GTX 1650 Graphics (4 GB GDDR5 dedicated) 8 GB DDR4-2400 SDRAM (1 x 8 GB)",
+        "price": 55757,
+        "stock" : 100 
+    },
+    {
+        "productName": "HP Notebook - 15-db1069au",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71JZWpHPV%2BL._SL1500_.jpg",
+        "spec" : "AMD Ryzen™ 3 processor Windows 10 Home Single Language 64 AMD Radeon™ Vega 3 Graphics 4 GB DDR4-2400 SDRAM (1 x 4 GB)",
+        "price": 30494,
+        "stock" : 100 
+    },
+    {   
+        "productName": "Dell New Inspiron 14 5490 Laptop",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/518ha6z%2B9PL._SL1080_.jpg",
+        "spec" : "10th Generation Intel® Core™ i5-10210U Processor Windows 10 Home Single Language Intel® UHD Graphics with shared graphics memory 8GB,4Gx1 + 4G onboard, DDR4, 2666MHz 512GB M.2 PCIe NVMe Solid State Drive 35.5-cm. display",
+        "price": 56989,
+        "stock" : 100 
+    },
+    {
+        "productName": "Dell New Inspiron 15 7501 Laptop",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71hpVwe7koL._SL1500_.jpg",
+        "spec" : "10th Generation Intel® Core™ i7-10750H Windows 10 Home Single Language NVIDIA® GeForce GTX® 1650 Ti 4GB GDDR6 16GB 1TB M.2 PCIe NVMe Solid State Drive 39.6-cm. display",
+        "price": 127990,
+        "stock" : 100 
+    },
+    {
+        "productName": "Dell Vostro 15 3580 Laptop",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71dwTQEm7xL._SL1280_.jpg",
+        "spec" : "Intel® Pentium® Gold Processor 5405U Windows 10 Home Single Language (EM) India Premium Partner Program English Intel® UHD Graphics with shared graphics memory 4GB, 1x4GB, DDR4, 2666MHz 1TB 5400RPM 2.5inch SATA Hard Drive 39.6-cm. display",
+        "price": 27990,
+        "stock" : 100 
+    },
+    {
+        "productName": "Dell New XPS 13 9310 Laptop",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/613fdtVtglL._SL1280_.jpg",
+        "spec" : "11th Generation Intel® Core™ i5-1135G7 Processor Windows 10 Pro (64bit) English 8GB 4267MHz LPDDR4x Memory Onboard 512GB M.2 PCIe NVMe Solid State Drive 34-cm. display",
+        "price": 155518,
+        "stock" : 100 
+    },
+    {
+        "productName": "Dell New XPS 15 9500 Laptop",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81rsoANm7tL._SL1500_.jpg",
+        "spec" : "10th Generation Intel® Core™ i7-10750H Windows 10 Pro (64bit) English NVIDIA® GeForce® GTX 1650 Ti 4GB GDDR6 16GB DDR4-2933MHz, 2x8G 512GB M.2 PCIe NVMe Solid State Drive 39.6-cm. display",
+        "price": 190000,
+        "stock" : 100 
+    },
+    {
+        "productName": "Dell New XPS 17 9700 Laptop",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61uY1B3pTcL._SL1000_.jpg",
+        "spec" : "10th Generation Intel® Core™ i7-10750H Windows 10 Pro (64bit) English NVIDIA® GeForce® GTX 1650 Ti 4GB GDDR6 16GB DDR4-2933MHz, 2x8G 1TB M.2 PCIe NVMe Solid State Drive 43.1-cm. display",
+        "price": 235685,
+        "stock" : 100 
+    },
+    {
+        "productName": "New Alienware m15 R3 Gaming",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61m3N4MBaNL._SL1000_.jpg",
+        "spec" : "10th Generation Intel® Core™ i7-10750H Windows 10 Home Single Language (Dell recommends Windows 10 Pro for business) NVIDIA® GeForce® GTX 1660 Ti 6GB GDDR6 16GB DDR4 2666MHz 512GB PCIe M.2 SSD 39.6-cm. display",
+        "price": 200731,
+        "stock" : 100 
+    },
+    {
+        "productName": "Apple MacBook Pro (16-inch, 16GB RAM, 512GB Storage, 2.6GHz 9th Gen Intel Core i7) - Space Grey",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71L2iBSyyOL._SL1500_.jpg",
+        "spec" : "Ninth-generation 6-core Intel Core i7 processor Stunning 16-inch Retina display with True Tone technology Touch Bar and Touch ID AMD Radeon Pro 5300M graphics with GDDR6 memory Ultrafast SSD Intel UHD Graphics 630 Six-speaker system with force-cancelling woofers Four Thunderbolt 3 (USB-C) ports Up to 11 hours of battery life 802.11ac Wi-Fi",
+        "price": 179990,
+        "stock" : 100 
+    },
+    {
+        "productName": "New Apple MacBook Pro (13-inch, 16GB RAM, 512GB SSD, 2.0GHz Quad-core 10th-Generation Intel Core i5 Processor, Magic Keyboard) - Space Grey",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71YRSVXhgQL._SL1500_.jpg",
+        "spec" : "Tenth-generation quad-core Intel Core i5 processor Brilliant Retina display with True Tone technology Backlit Magic Keyboard Touch Bar and Touch ID Intel Iris Plus Graphics Ultra-fast SSD Four Thunderbolt 3 (USB-C) ports Up to 10 hours of battery life 802.11ac Wi-Fi Force Touch trackpad",
+        "price": 174990,
+        "stock" : 100 
+    },
+    {
+        "productName": "ASUS ZenBook 13 UX333FA-A4115T",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91Uvye14IwL._SL1500_.jpg",
+        "spec" : "13.3-inch FHD Thin and Light Laptop (8th Gen Intel Core i7-8565U/8GB RAM/512GB PCIe SSD/Windows 10/Integrated Graphics/1.19 Kg), Icicle Silver Metal",
+        "price": 75880,
+        "stock" : 100 
+    },
+    {
+        "productName": "Mi Notebook Horizon Edition 14",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/712rw0zcH8L._SL1500_.jpg",
+        "spec" : "Intel Core i7-10510U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX350 2GB Graphics/Grey/1.35Kg)",
+        "price": 59999,
+        "stock" : 100 
+    },
+    {
+        "productName": "Microsoft Surface GO 2",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Ysjm%2BObeL._SL1500_.jpg",
+        "spec" : "10.1-inch Laptop (Gold Processor 4425Y/8GB/128GB SSD/Windows 10 Home in S Mode/Intel UHD 615 Graphics), Platinum",
+        "price": 55990,
+        "stock" : 100 
+    },
+    {
+        "productName": "Microsoft Surface Pro X",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51ZqIfidWfL._SL1200_.jpg",
+        "spec" : "13-inch Laptop (Microsoft SQ1/8GB/128GB SSD/Windows 10 Home/Microsoft SQ1 Adreno 685 GPU Graphics), Matte Black",
+        "price": 90990,
+        "stock" : 100 
+    },
+    {
+        "productName": "Lenovo ThinkPad E14",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71k3N4gxNeL._SL1486_.jpg",
+        "spec" : " Intel Core i5 10th Gen 14-inch Full HD Thin and Light Laptop (8GB RAM/ 1TB HDD + 128GB SSD/ Windows 10 Home/ Microsoft Office Home & Student 2019/ Black/ 1.69 kg)",
+        "price": 61990,
+        "stock" : 100 
+    },
+    {
+        "productName": "Redmi Note 9",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81EjHa-dSJL._SL1500_.jpg",
+        "spec" : "(Aqua Green, 4GB RAM, 64GB Storage) - 48MP Quad Camera & Full HD+ Display",
+        "price": 10999,
+        "stock" : 100
+    },
+    {
+        "productName": "Samsung Galaxy M31s",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61d-phh4GfL._SL1500_.jpg",
+        "spec" : "(Mirage Blue, 6GB RAM, 128GB Storage)",
+        "price": 18499,
+        "stock" : 100
+    },
+    {
+        "productName": "OnePlus 7T",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71ncRs6HzyL._SL1500_.jpg",
+        "spec" : "(Glacier Blue,8GB RAM+256GB Storage)",
+        "price": 45999,
+        "stock" : 100
+    },
+    {
+        "productName": "OnePlus Nord 5G ",
+        "image": "https://m.media-amazon.com/images/I/71gag816F7L._SL1500_.jpg",
+        "spec" : "(Gray Onyx, 12GB RAM, 256GB Storage)",
+        "price": 29999,
+        "stock" : 100
+    },
+    {
+        
+        "productName": "Samsung Galaxy M21",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71dujTTJDZL._SL1500_.jpg",
+        "spec" : "(Midnight Blue, 4GB RAM, 64GB Storage)",
+        "price": 12499,
+        "stock" : 100
+    },
+    {
+
+        "productName": "Apple iPhone 11",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71tpxtLD0aL._SL1500_.jpg",
+        "spec" : "64GB - Purple (Includes EarPods, Power Adapter)",
+        "price": 50999,
+        "stock" : 100
+    },
+
+    {    
+        "productName": "New Apple iPhone 12 Pro Max",
+        "image": "https://m.media-amazon.com/images/I/71XXJC7V8tL._SL1500_.jpg",
+        "spec" : "(128 GB Graphite)",
+        "price": 129900,
+        "stock" : 100
+    }, 
+    {   
+        "productName": "New Apple iPhone 12 Pro",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71DVgBTdyLL._SL1500_.jpg",
+        "spec" : "(256 GB Pacific Blue)",
+        "price": 110000,
+        "stock" : 100
+    },
+
+    {    
+        "productName": "OPPO A53",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71QJyXZYPuL._SL1500_.jpg",
+        "spec" : "(Fancy Blue, 4GB RAM, 64GB Storage)",
+        "price": 12990,
+        "stock" : 100
+    },
+
+    {  
+        "productName": "Samsung Galaxy S10 Plus",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/619jtWsN0cL._SL1500_.jpg",
+        "spec" : "(Black, 8GB RAM, 128GB Storage)",
+        "price": 39990,
+        "stock" : 100
+    },
+
+    {   
+        "productName": "Vivo Y50 ",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/514ETCdN3CL._SL1200_.jpg",
+        "spec" : "((Pearl White, 8GB RAM, 128GB Storage)",
+        "price": 16490,
+        "stock" : 100
+    },
+    {
+        "productName": "Samsung Galaxy Tab A7",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71g9138yHKL._SL1500_.jpg",
+        "spec" : "(10.4 inch, RAM 3 GB, ROM 32 GB, Wi-Fi-only), Grey",
+        "price": 16999,
+        "stock" : 100
+    },
+    {
+        "productName": "Samsung Galaxy Tab S6 Lite",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/712YC1bGhJL._SL1500_.jpg",
+        "spec" : "(10.4 inch, RAM 4 GB, ROM 64 GB, Wi-Fi-only), Oxford Grey",
+        "price": 26999,
+        "stock" : 100
+    },
+    {
+        "productName": "Samsung Galaxy Tab A 10.1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71PWPoS%2BNtL._SL1500_.jpg",
+        "spec" : "(10.1 inch, RAM 2GB, ROM 32GB, Wi-Fi-Only),Silver",
+        "price": 13999,
+        "stock" : 100
+    },
+    {
+        "productName": "Apple iPad Mini (Wi-Fi, 64GB) - Space Grey",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81kzAlgOAIL._SL1500_.jpg",
+        "spec" : "7.9-inch (20.07 cms) Retina display with True Tone and wide color A12 Bionic chip Touch ID fingerprint sensor 8MP back camera, 7MP FaceTime HD front camera Stereo speakers 802.11ac Wi-Fi Up to 10 hours of battery life",
+        "price": 31900,
+        "stock" : 100
+    },
+    {
+        "productName": "New Apple iPad Pro (11-inch, Wi-Fi, 1TB) - Silver (2nd Generation)",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/815a%2BXjrgvL._SL1500_.jpg",
+        "spec" : "11-inch (27.94 cms) edge-to-edge Liquid Retina display with ProMotion, True Tone, and P3 wide color A12Z Bionic chip with Neural Engine 12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner 7MP TrueDepth front camera Face ID for secure authentication and Apple Pay Four speaker audio and five studio-quality microphones 802.11ax Wi-Fi 6",
+        "price": 116900,
+        "stock" : 100
+    },
+    {
+        "productName": "New Apple iPad Air (10.9-inch, Wi-Fi, 64GB) - Sky Blue (Latest Model, 4th Generation)",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71dwvdUu72L._SL1500_.jpg",
+        "spec" : "Stunning 10.9-inch Liquid Retina display with True Tone and P3 wide colour A14 Bionic chip with Neural Engine Touch ID for secure authentication 12MP back camera, 7MP FaceTime HD front camera Available in Silver, Space Grey, Rose Gold, Green and Sky Blue Wide stereo audio Wi-Fi 6 (802.11ax)",
+        "price": 69900,
+        "stock" : 100
+    },
+    {
+        "productName": "OnePlus Y Series 108 cm",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81kmtB1326L._SL1500_.jpg",
+        "spec" : "(43 inches) Full HD LED Smart Android TV 43Y1 (Black) (2020 Model)",
+        "price": 23999,
+        "stock" : 100
+    },
+    {
+        "productName": "Samsung 138 cm (55 Inches)",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91rndIh8sEL._SL1500_.jpg",
+        "spec" : "Wondertainment Series Ultra HD LED Smart TV UA55TUE60AKXXL (Titan Gray) (2020 model)",
+        "price": 23999,
+        "stock" : 100
+    },
+    {
+        "productName": "LG 80 cm (32 inches) HD",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81tybtU7VjL._SL1500_.jpg",
+        "spec" : "32 inches HD Ready Smart LED TV 32LM563BPTC (Dark Iron Gray) (2020 Model)",
+        "price": 23999,
+        "stock" : 100
+    },
+    {
+        "productName": "Vu 108 cm (43 inches) Full HD",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71ka35uD4QL._SL1500_.jpg",
+        "spec" : "UltraAndroid LED TV 43GA (Black) (2019 Model)",
+        "price": 24999,
+        "stock" : 100
+    },
+    {
+        "productName": "Canon EOS 1500D",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61TMY%2BER%2BLL._SL1002_.jpg",
+        "spec" : "24.1 Digital SLR Camera (Black) with EF S18-55 is II Lens, 16GB Card and Carry Case",
+        "price": 24990,
+        "stock" : 100
+    },
+    {
+        "productName": "Canon EOS 200D II",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/415ZSUQ2erL.jpg",
+        "spec" : "24.1MP Digital SLR Camera + EF-S 18-55mm f4 is STM Lens (Black)",
+        "price": 47990,
+        "stock" : 100
+    },
+    {
+        "productName": "Nikon D5600",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41ysoC0mdHL.jpg",
+        "spec" : "Digital Camera 18-55mm VR Kit (Black)",
+        "price": 41990,
+        "stock" : 100
+    },
+    {
+        "productName": "HP DeskJet 2778",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71055a9T9HL._SL1500_.jpg",
+        "spec" : "All-in-One Ink Advantage Wireless Colour Printer",
+        "price": 8790,
+        "stock" : 100
+    },
+    {
+        "productName": "HP DeskJet 4178",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61lui81r4eL._SL1500_.jpg",
+        "spec" : "All in One Wireless Ink Advantage Printer with ADF",
+        "price": 6799,
+        "stock" : 100
+    },
+    {
+        "productName": "Epson L3152",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51Jt5sNrY8L._SL1200_.jpg",
+        "spec" : "WiFi All in One Ink Tank Printer",
+        "price": 13499,
+        "stock" : 100
+    },
+    {
+        "productName": "HP Laserjet Pro M1136",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61BBkgbDQqL._SL1500_.jpg",
+        "spec" : "Multifunction Monochrome Laser Printer (Black)",
+        "price": 14199,
+        "stock" : 100
+    },
+    {
+        "productName": "HP X1000 Wired Mouse (Black/Grey)",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61mucoT%2BifL._SL1500_.jpg",
+        "spec" : "Wired USB Mouse",
+        "price": 289,
+        "stock" : 100
+    },
+    {
+        "productName": "Zebronics ZEB-KM2100 Multimedia USB Keyboard",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81shebPwe0L._SL1500_.jpg",
+        "spec" : "Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key",
+        "price": 299,
+        "stock" : 100
+    },
+    {
+        "productName": "Zebronics Zeb-Warrior 2.0 Multimedia Speaker",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81grtcmxsyL._SL1500_.jpg",
+        "spec" : " Aux Connectivity,USB Powered and Volume Control",
+        "price": 549,
+        "stock" : 100
+    }
+
+    
+    
+]
